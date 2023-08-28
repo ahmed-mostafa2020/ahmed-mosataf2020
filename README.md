@@ -11,10 +11,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1dRhUTCgRH4diFbCfV1HGTCDmhgV3Dy-6](https://drive.google.com/drive/folders/1dRhUTCgRH4diFbCfV1HGTCDmhgV3Dy-6)
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ahmed-mostafa2020&label=Profile%20views&color=004080&style=flat" alt="ahmed-mostafa2020" height="40" width="240" />
     <img src="https://img.shields.io/github/followers/ahmed-mostafa2020?label=Followers&color=800000&style=flat" alt="ahmed-mostafa2020" height="40" width="160" />
-</p>
+</p> -->
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 180px/>
